@@ -1,6 +1,6 @@
 # Node App CRUD con JSON
 CRUD JSON-NODEJS actividades desde la linea de comandos
-##Descripcion del idioma
+## Descripcion del idioma
 Permite CREAR, LEER, ACTUALIZAR Y ELIMINAR tareas en un JSON desde la linea de comandos de node
 
 ## Instalación
